@@ -4,6 +4,7 @@ import Home from './pages/Home.jsx';
 import Cart from './pages/Cart.jsx';
 import About from './pages/About.jsx';
 import Navbar from './components/Navbar.jsx';
+import Footer from './components/Footer.jsx';
 
 function App(){
   const [cart, setCart] = useState([]);
@@ -59,7 +60,8 @@ function App(){
         <Route path='/cart' element={<Cart cart={cart} onDecrease={decreaseQ}/>}/>
         <Route path='/about' element={<About/>}/>
       </Routes>
-
+      
+      <Footer/>
     </>
   )
 }

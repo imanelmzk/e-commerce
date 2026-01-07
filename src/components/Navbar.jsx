@@ -1,6 +1,6 @@
 import { NavLink } from 'react-router-dom'
 
-export default function Navbar(cartCount) {
+export default function Navbar({cartCount}) {
     const linkClass = ({ isActive }) =>
         isActive ? "font-bold text-pink-600" : "text-gray-600 hover:text-black";
   return (

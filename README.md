@@ -1,13 +1,13 @@
 # [WEB SITE E-COMMERCE  ]
 ### 👋 Welcome!
-This repository contains the code for a personal project I am working on to learn [Name of technology, e.g., React / Python].
+This repository contains the code for a personal project I am working on to learn JavaScript(DOM)/React/Next.js/TailwindCss.
 
 **⚠️ Project Status: Under Construction**
 **Status: 🔨 In Development (WIP)**
 I am still working on this project. Feel free to look around, but please keep in mind that this is not the final version!
 
 ### 🎯 Goal
-My goal is to build [your goal] to practice [specific skill].
+My goal is to build web site with React and Next.js to practice hight level in front-end.
 
 ---
 *Last update: January 2026* 
@@ -15,8 +15,7 @@ My goal is to build [your goal] to practice [specific skill].
 > 🚧 **Work In Progress**: This project is currently under active development. Some features might be incomplete or unstable.
 
 ## 📋 Description
-[Write a brief description of what your application does here.]
-*A web application to manage daily tasks using the pomodoro technique.*
+A web application to manage daily tasks using the pomodoro technique.*
 
 ## 🚀 Features & Roadmap
 Here is the current status of the project:
@@ -28,9 +27,9 @@ Here is the current status of the project:
 - [ ] Final design (CSS)
 
 ## 🛠️ Tech Stack
-* HTML5 / CSS3 / JavaScript / React / TailwindCss
+* HTML5 / CSS3 / JavaScript / React / TailwindCss / Next.js
 * JavaScript (DOM)
 
 
 ## 👤 Author
-* **[Your Name]** - [Link to your GitHub or LinkedIn]
+* **IMANE LAMZAOUAK ** - [github.com/imanelmzk]
