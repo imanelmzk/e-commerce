@@ -32,5 +32,5 @@ Here is the current status of the project:
 
 ## 👤 Author
 * **IMANE LAMZAOUAK ** - [github.com/imanelmzk]
-* [![I'm Imane, a junior developer. I'm relearning programming languages, creating websites and web and mobile applications.](https://skillicons.dev/icons?i=js,html,css,react,nodejs,npm,vscode,vite,nextjs,mysql)](https://skillicons.dev)
+* [![I'm Imane, a junior developer. I'm relearning programming languages, creating websites and web and mobile applications.](https://skillicons.dev/icons?i=js,html,css,react,nodejs,npm,vscode,vite,nextjs,python,mysql)](https://skillicons.dev)
 
